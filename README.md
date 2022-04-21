@@ -2,10 +2,10 @@
 
 Раньше я писал модули для legacy-систем, а теперь я начинающий Full-stack разработчик. 
 
-*Поддерживаю региональные системы на PHP
-*Пишу небольшие сайты на React
-*Занимаюсь поддержкой и развитием функционала legacy-систем 
-*Стараюсь держать код чистым и документированным.
+* Поддерживаю региональные системы на PHP
+* Пишу небольшие сайты на React
+* Занимаюсь поддержкой и развитием функционала legacy-систем 
+* Стараюсь держать код чистым и документированным.
 
 [![CodeWars](https://www.codewars.com/users/Konstantin_Meshkov/badges/small)](https://www.codewars.com/users/Konstantin_Meshkov)
 
@@ -32,6 +32,6 @@
 
 Мои контакты:
 
-[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=plastic&logo=Telegram&logoColor=000000)](https://t.me/simplykot)
+[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=plastic&logo=Telegram&logoColor=000000)](https://t.me/simply_kot)
 [![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=plastic&logo=Gmail&logoColor=FF0000)](mailto:simply.kot@gmail.com)
 
