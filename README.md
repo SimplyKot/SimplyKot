@@ -7,12 +7,16 @@
 * Занимаюсь поддержкой и развитием функционала legacy-систем 
 * Стараюсь держать код чистым и документированным.
 
+
 [![CodeWars](https://www.codewars.com/users/Konstantin_Meshkov/badges/small)](https://www.codewars.com/users/Konstantin_Meshkov)
+
 
 Моя статистика:
 
 ![SimplyKot's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimplyKot&show_icons=true&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyKot&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Стек технологий и инструментов:
 
@@ -30,8 +34,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF4500?style=plastic&logo=Postman&logoColor=000000)
 ![Figma](https://img.shields.io/badge/Figma-BDB76B?style=plastic&logo=Figma&logoColor=000000)
 
+
 Мои контакты:
 
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=plastic&logo=Telegram&logoColor=000000)](https://t.me/simply_kot)
-[![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=plastic&logo=Gmail&logoColor=FF0000)](mailto:simply.kot@gmail.com)
 
